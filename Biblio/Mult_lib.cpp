@@ -2,7 +2,7 @@
 //! @mainpage Главная страница
 //! Описания функций создания облачков, живых солнца и озера находятся в меню <b>Файлы</b>.
 //! <p>Пример их использования можно посмотреть в пункте ниже.
-//! @see https://github.com/Yuletsky/Multik_Help/
+//! @see https://github.com/Yuletsky/Multik_Help/tree/master/Multik
 //! @author Sidorina Y.A.
 //! @date 27.02.2020
 
